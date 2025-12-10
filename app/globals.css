@@ -9,6 +9,9 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 15px; /* normalize base size across environments */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
