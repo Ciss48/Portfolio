@@ -64,7 +64,7 @@ export default function Hero() {
           <div className="flex flex-col items-center md:items-end space-y-6">
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden shadow-2xl ring-4 ring-gray-200 dark:ring-gray-700 bg-gradient-to-br from-blue-400 to-purple-500">
               <Image
-                src="/images/profile.jpg"
+                src="/images/profile.png"
                 alt="Vũ Tiến Dũng- Data Analyst"
                 fill
                 className="object-cover"
