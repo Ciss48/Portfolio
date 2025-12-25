@@ -22,9 +22,9 @@ export const experiences: Experience[] = [
     result: "=> Achieved a 5% increase in product revenue, contributing significantly to overall profitability."
   } ,
   {
-    company: "Vpbank",
-    role: "Young Talent - Data Analyst",
-    duration: "3/2024 - 12/2024",
+    company: "Socotec UK",
+    role: "Data Analyst",
+    duration: "6/2024 - 12/2024",
     responsibilities: [
       "Analyze requirements from leadership, ask clarifying questions, and apply problem-solving frameworks (such as the 5 Whys and 5W1H) to fully understand the context and root causes behind each request.",
       "Gather and explore data, collaborating closely with cross-functional teams to understand business processes and translate that knowledge into effective solutions.",
